@@ -10,7 +10,7 @@ Here I configured Credentials for a basic scan on a windows machine. This allows
 
 
 <b>Deploy Metapsloitable (deliberate vulnerabile machine, will act as a target)</b></br>
-Here I deployed Metapsloitable(windows device) in Microsoft Azure in the location US east which would be our target machine. The public ip address of windows device 3.136.17.100 is used as a target machine ip address for scanning using Nessus.
+Here I deployed Metapsloitable(windows machine) in Microsoft Azure in the location US east which would be our target machine. The public ip address of windows device 3.136.17.100 is used as a target machine ip address for scanning using Nessus.
 
 ![image](https://github.com/NATASHASAINI/Vulnerable_Qualys/assets/156629309/69449ed6-1bcd-44d8-ba2b-8658e960a002)
 
@@ -42,5 +42,5 @@ Here reports are analyzed based on which we can list the identified vulnerabilit
 ![image](https://github.com/NATASHASAINI/Vulnerable_Qualys/assets/156629309/03ba64f3-bf9b-45d0-a983-f34f1d82aded)
 
 <b>Conclusion:</b></br>
-In this project, I had the opportunity to explore Nessus vulnerability management by installing windows device in Microsoft Azure as our target vulnerable machine.Upon scanning the public ip address vulnerabilities are scanned and results are generated and downloaded using pdf report.In a normal SOC environment, you wouldn't normally have the Security Analyst who is running the vulnarability scan also do the remediations, due to seperation of duties, instead they would normally present this information to the respective subject matter expert Through this hands-on experience, I gained valuable insights into the power and effectiveness of Nessus in mitigating potential security risks.
+In this project, I had the opportunity to explore Nessus vulnerability management by deploying Metapsloitable  (windows machine) in Microsoft Azure as our target vulnerable machine.Upon scanning the public ip address vulnerabilities are scanned and results are generated and downloaded using pdf report.In a normal SOC environment, you wouldn't normally have the Security Analyst who is running the vulnarability scan also do the remediations, due to seperation of duties, instead they would normally present this information to the respective subject matter expert Through this hands-on experience, I gained valuable insights into the power and effectiveness of Nessus in mitigating potential security risks.
 
