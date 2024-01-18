@@ -1,7 +1,7 @@
 <b>Deploy Metapsloitable and Scan the target using Nessus </b></br>
 
 <b>Introduction</b></br>
-In the realm of cybersecurity, staying ahead of potential vulnerabilities is crucial. One effective tool for vulnerability management is Nessus, a comprehensive solution that helps identify and remediate security weaknesses. With Nessus, you can gain full visibility into your network by conducting a vulnerability assessment. In this blog,you will go through the five steps for Nessus scan and generate the report
+In the realm of cybersecurity, staying ahead of potential vulnerabilities is crucial. One effective tool for vulnerability management is Nessus, a comprehensive solution that helps identify and remediate security weaknesses. With Nessus, you can gain full visibility into your network by conducting a vulnerability assessment. In this mini project,you will go through the five steps for Nessus scan and generate the report
 
 <b>Install Nessus</b></br>
 
@@ -42,5 +42,5 @@ Here reports are analyzed based on which we can list the identified vulnerabilit
 ![image](https://github.com/NATASHASAINI/Vulnerable_Qualys/assets/156629309/03ba64f3-bf9b-45d0-a983-f34f1d82aded)
 
 <b>Conclusion:</b></br>
-In this project, I had the opportunity to explore Nessus vulnerability management by deploying Metapsloitable  (windows machine) in Microsoft Azure as our target vulnerable machine.Upon scanning the public ip address vulnerabilities are scanned and results are generated and downloaded using pdf report.In a normal SOC environment, you wouldn't normally have the Security Analyst who is running the vulnarability scan also do the remediations, due to seperation of duties, instead they would normally present this information to the respective subject matter expert Through this hands-on experience, I gained valuable insights into the power and effectiveness of Nessus in mitigating potential security risks.
+In this mini project, I had the opportunity to explore Nessus vulnerability management by deploying Metapsloitable  (windows machine) in Microsoft Azure as our target vulnerable machine.Upon scanning the public ip address vulnerabilities are scanned and results are generated and downloaded using pdf report.In a normal SOC environment, you wouldn't normally have the Security Analyst who is running the vulnarability scan also do the remediations, due to seperation of duties, instead they would normally present this information to the respective subject matter expert Through this hands-on experience, I gained valuable insights into the power and effectiveness of Nessus in mitigating potential security risks.
 
