@@ -10,7 +10,7 @@ Here I configured Credentials for a basic scan on a windows machine. This allows
 
 
 <b>Deploy Metapsloitable (deliberate vulnerabile machine, will act as a target)</b></br>
-Here I have installed windows device in Azure in the location US east which will be our target machine. The public ip address of windows device 3.136.17.100 is used as a target machine ip address for scanning using Nessus.
+Here I deployed Metapsloitable(windows device) in Microsoft Azure in the location US east which would be our target machine. The public ip address of windows device 3.136.17.100 is used as a target machine ip address for scanning using Nessus.
 
 ![image](https://github.com/NATASHASAINI/Vulnerable_Qualys/assets/156629309/69449ed6-1bcd-44d8-ba2b-8658e960a002)
 
