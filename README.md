@@ -34,14 +34,13 @@ Click Export to download the report.
 
 ![image](https://github.com/NATASHASAINI/Vulnerable_Qualys/assets/156629309/7f4dd133-a80a-459b-b12d-0290345558d6)
 
-Analayze Reports
+<b>Analayze Reports</b></br>
+
+In a normal SOC environment, you wouldn't normally have the Security Analyst who is running the vulnarability scan also do the remediations, due to seperation of duties, instead they would normally present this information to the respective subject matter expert. By applying the necessary updates, I effectively reduced the vulnerability exposure of the virtual machine.
 
 ![image](https://github.com/NATASHASAINI/Vulnerable_Qualys/assets/156629309/c7f0e9fc-c5c0-48cc-bd24-2d8b1ca5f27b)
-
-
-<b>Utilizing the Scan Results for Remediation:</b></br>
-With the vulnerability information at hand, I could proceed with the remediation process. In a normal SOC environment, you wouldn't normally have the Security Analyst who is running the vulnarability scan also do the remediations, due to seperation of duties, instead they would normally present this information to the respective subject matter expert. By applying the necessary updates, I effectively reduced the vulnerability exposure of the virtual machine.
+![image](https://github.com/NATASHASAINI/Vulnerable_Qualys/assets/156629309/03ba64f3-bf9b-45d0-a983-f34f1d82aded)
 
 <b>Conclusion:</b></br>
-In this project, I had the opportunity to exploreNessus vulnerability management by setting up a lab environment, installing outdated software versions, and running both credentialed and non-credentialed scans. By analyzing the scan results and following the recommendations provided, I successfully remediated the vulnerabilities identified in the Windows 11 virtual machine. Through this hands-on experience, I gained valuable insights into the power and effectiveness of Qualys in mitigating potential security risks.
-![image](https://github.com/NATASHASAINI/Vulnerable_Qualys/assets/156629309/03ba64f3-bf9b-45d0-a983-f34f1d82aded)
+In this project, I had the opportunity to explore Nessus vulnerability management by setting up a lab environment, installing outdated software versions, and running both credentialed and non-credentialed scans. By analyzing the scan results and following the recommendations provided, I successfully remediated the vulnerabilities identified in the Windows 11 virtual machine. Through this hands-on experience, I gained valuable insights into the power and effectiveness of Nessus in mitigating potential security risks.
+
